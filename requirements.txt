@@ -1,0 +1,4 @@
+openpyxl>=2.3.5
+lxml>=2.9.2
+beautifulsoup4
+requests
